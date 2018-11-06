@@ -9,7 +9,7 @@
 
 ## Descripción
 
-El tercer proyecto corto sirve como práctica de construcción del algoritmo de Simulated Annealing. Para ello se solicita crear un cuaderno (notebook) en Python, este tendrá el objetivo de explicar, paso a paso con visualizaciones, el proceso para construir dicho algoritmo.
+El segundo proyecto corto sirve como práctica de construcción del algoritmo de Simulated Annealing. Para ello se solicita crear un cuaderno (notebook) en Python. Este tendrá el objetivo de explicar, paso a paso con visualizaciones, el proceso para construir dicho algoritmo.
 
 ## Requisitos del sistema (Hardware & Software)
 
